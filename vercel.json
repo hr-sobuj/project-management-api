@@ -1,7 +1,7 @@
 {
     "version": 2,
     "builds": [
-      { "src": "ProjectManagementApi/wsgi.py", "use": "@vercel/python" }
+      { "src": "ProjectManagementApi/wsgi.py", "use": "@vercel/python","config":{"maxlam"} }
     ],
     "routes": [
       { "src": "/(.*)", "dest": "ProjectManagementApi/wsgi.py" }
