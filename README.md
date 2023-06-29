@@ -17,13 +17,13 @@ To install and run the backend of the Project Management Application, follow the
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/project-management-backend.git
+   git clone https://github.com/hr-sobuj/project-management-api.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd project-management-backend
+   cd project-management-api
    ```
 
 3. Create a virtual environment:
